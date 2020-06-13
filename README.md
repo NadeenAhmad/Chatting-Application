@@ -1,5 +1,6 @@
 # Chatting Application
 * This project is made using Java
+* This project improves your understanding of Soclet programming using Java
 * There can be multiple clients connect to a server and they can chat to each other.
 * After getting connected to the server, a user must provide his or her name to enter the chat.
 * Here is a demo of the app:  
