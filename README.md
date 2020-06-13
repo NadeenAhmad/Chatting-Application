@@ -1,1 +1,2 @@
-# Chatting-Application
+# Chatting Application
+* This project is made using Java
